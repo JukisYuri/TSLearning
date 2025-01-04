@@ -1,4 +1,5 @@
 /*
+Hàm trong TypeScript
 Đề bài:
     Viết hàm sum(a: number, b: number): number trả về tổng của hai số a và b.
     Viết hàm isPrime(n: number): boolean để kiểm tra xem n có phải số nguyên tố không.

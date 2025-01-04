@@ -1,4 +1,5 @@
 /*
+Kiểu dữ liệu cơ bản
 Đề bài:
     Khai báo các biến sau với kiểu dữ liệu tương ứng:
         Một biến age kiểu number.

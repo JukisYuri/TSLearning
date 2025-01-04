@@ -1,4 +1,5 @@
 /*
+Array và Tuple
 Đề bài:
     Khai báo một mảng chứa các số kiểu number và tính tổng các phần tử trong mảng.
     Khai báo một tuple chứa thông tin: tên (string), tuổi (number), trạng thái học sinh (boolean). In từng phần tử của tuple ra console.
